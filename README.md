@@ -13,6 +13,7 @@ Installation & Running
     - Open project in IDE
     - Compile and run Main.java
     - Ensure database setup for login verification is complete
+    - Data handling and storage using JSON format
 
  REFERENCE
 - Oracle. (n.d.). Java Tutorials. Available at: https://docs.oracle.com/javase/tutorial/
