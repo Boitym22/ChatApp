@@ -12,6 +12,7 @@ Installation & Running
     - Clone the repository
     - Open project in IDE
     - Compile and run Main.java
+    - Ensure database setup for login verification is complete
 
  REFERENCE
 - Oracle. (n.d.). Java Tutorials. Available at: https://docs.oracle.com/javase/tutorial/
@@ -20,3 +21,4 @@ Installation & Running
 - JUnit. (n.d.). JUnit 5 User Guide. Available at: https://junit.org/junit5/docs/current/user-guide/
 - Apache NetBeans. (n.d.). NetBeans Tutorials. Available at: https://netbeans.apache.org/tutorial/main/
 - GeeksforGeeks. (n.d.). Object-Oriented Programming in Java. Available at: https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+- JSON. (n.d.). Introducing JSON. Available at: JSON Official Website
